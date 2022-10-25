@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(233, 233, 241); text-align: center;
+}
+p {
+    color: rgb(244, 239, 248); text-align: center;
+}
+body {
+    background-color: seagreen;
+}
+
+table {
+    text-align: center; width: 50%;
+    border: 1px solid ;
+    border-style:groove ;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table {
+    width: 50%;
+  }
+  
+  td {
+    height: 40px;
+    padding: 7px;
+  }
+  tr :hover { background-color: brown;
+
+  }
+  
